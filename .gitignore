@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# uv environment directories
+.venv/
+.uv/
+
+# VS Code
+.vscode/
+
+# Generated output
+outputs/
+completed-pdfs/
+
+# OS files
+.DS_Store
+Thumbs.db
